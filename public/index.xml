@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sitename</title>
+    <link>%22/%22/</link>
+    <description>Recent content on sitename</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2015 yourname.</copyright>
+    <lastBuildDate>Tue, 02 Aug 2016 03:07:50 +0200</lastBuildDate>
+    <atom:link href="%22/%22/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>firstpost</title>
+      <link>/%22/%22/2016/08/02/firstpost/</link>
+      <pubDate>Tue, 02 Aug 2016 03:07:50 +0200</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>/%22/%22/2016/08/02/firstpost/</guid>
+      <description>
+
+&lt;h1 id=&#34;rfrfr&#34;&gt;rfrfr&lt;/h1&gt;
+
+&lt;p&gt;rrfrfr&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
