@@ -9,11 +9,16 @@
     <managingEditor>yourname@example.com (yourname)</managingEditor>
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2015 yourname.</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Fri, 19 Aug 2016 01:58:59 +0200</lastBuildDate>
+=======
+    <lastBuildDate>Tue, 02 Aug 2016 03:07:50 +0200</lastBuildDate>
+>>>>>>> 376192794507d7eee4c25c52ab67685da0712d81
     <atom:link href="%22/%22/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>firstpost</title>
+<<<<<<< HEAD
       <link>/%22/%22/2016/08/19/firstpost/</link>
       <pubDate>Fri, 19 Aug 2016 01:58:59 +0200</pubDate>
       <author>yourname@example.com (yourname)</author>
@@ -23,6 +28,17 @@
 &lt;h1 id=&#34;test:f779394c000b834c435e35a4c53a5ecd&#34;&gt;Test&lt;/h1&gt;
 
 &lt;p&gt;rgfgfg&lt;/p&gt;
+=======
+      <link>/%22/%22/2016/08/02/firstpost/</link>
+      <pubDate>Tue, 02 Aug 2016 03:07:50 +0200</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>/%22/%22/2016/08/02/firstpost/</guid>
+      <description>
+
+&lt;h1 id=&#34;rfrfr&#34;&gt;rfrfr&lt;/h1&gt;
+
+&lt;p&gt;rrfrfr&lt;/p&gt;
+>>>>>>> 376192794507d7eee4c25c52ab67685da0712d81
 </description>
     </item>
     
