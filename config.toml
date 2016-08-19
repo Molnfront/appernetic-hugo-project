@@ -1,4 +1,4 @@
-baseurl = "https://molnfront.github.io"
+baseurl = "http://username.github.io"
 languageCode = "en-us"
 title = "Beautiful Hugo"
 theme = "beautifulhugo"
@@ -30,4 +30,3 @@ pygmentsUseClasses = true
     name = "About"
     url = "/page/about/"
     weight = 2
-
