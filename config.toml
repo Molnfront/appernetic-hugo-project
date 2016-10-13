@@ -10,7 +10,7 @@ title = "Arthur Dent"
 pygmentsuseclasses = true
 disqusShortname = "cocoaexamplesite" # Comment out to disable Disqus.
 pluralizelisttitles = false
-
+theme = "cocoa-hugo-theme"
 [permalinks]
 fixed = ":title/"
 blog = "blog/:slug/"
