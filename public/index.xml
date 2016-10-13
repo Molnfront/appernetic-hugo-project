@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beautiful Hugo</title>
-    <link>%22/%22/</link>
+    <link>%22/%22/index.xml</link>
     <description>Recent content on Beautiful Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -19,9 +19,10 @@
       <guid>/%22/%22/post/firstpost/</guid>
       <description>
 
-&lt;h1 id=&#34;test:f779394c000b834c435e35a4c53a5ecd&#34;&gt;Test&lt;/h1&gt;
+&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;
 
-&lt;p&gt;rgfgfg&lt;/p&gt;
+&lt;p&gt;rgfgfg
+vvcv&lt;/p&gt;
 </description>
     </item>
     
