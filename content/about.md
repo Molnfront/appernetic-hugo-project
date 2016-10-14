@@ -1,15 +1,9 @@
 +++
-<<<<<<< HEAD
-date = "2016-08-01T10:59:20Z"
-=======
+
 date = "2016-08-19T01:57:31+02:00"
->>>>>>> c025b79c660281fdbdc22f67b2b82c774308891f
-draft = true
+draft = false
 title = "about"
 
 +++
-<<<<<<< HEAD
-
-=======
-# Blä
->>>>>>> c025b79c660281fdbdc22f67b2b82c774308891f
+# Bläfg
+Tfgfg
