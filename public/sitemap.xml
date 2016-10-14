@@ -3,6 +3,15 @@
   
   <url>
     <loc>/%22/%22/</loc>
+<<<<<<< HEAD
+=======
+    <lastmod>2016-08-19T01:58:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/%22/%22/post/firstpost/</loc>
+    <lastmod>2016-08-19T01:58:59+02:00</lastmod>
+>>>>>>> c025b79c660281fdbdc22f67b2b82c774308891f
   </url>
   
 </urlset>
