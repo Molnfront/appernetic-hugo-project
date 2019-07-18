@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>sitename</title>
     <link>%22/%22/</link>
     <description>Recent content on sitename</description>
@@ -13,5 +14,42 @@
 	<atom:link href="%22/%22/index.xml" rel="self" type="application/rss+xml" />
     
     
+=======
+<<<<<<< HEAD
+    <title>Arthur Dent</title>
+    <link>%22/%22/index.xml</link>
+    <description>Recent content on Arthur Dent</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="%22/%22/index.xml" rel="self" type="application/rss+xml" />
+    
+=======
+    <title>Beautiful Hugo</title>
+    <link>%22/%22/index.xml</link>
+    <description>Recent content on Beautiful Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Fri, 19 Aug 2016 01:58:59 +0200</lastBuildDate>
+    <atom:link href="%22/%22/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>firstpost</title>
+      <link>/%22/%22/post/firstpost/</link>
+      <pubDate>Fri, 19 Aug 2016 01:58:59 +0200</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>/%22/%22/post/firstpost/</guid>
+      <description>
+
+&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;
+
+&lt;p&gt;rgfgfg
+vvcv&lt;/p&gt;
+</description>
+    </item>
+    
+>>>>>>> c025b79c660281fdbdc22f67b2b82c774308891f
+>>>>>>> 8376e96197b2756634eeb1ca30d7766f11d30cb4
   </channel>
 </rss>
